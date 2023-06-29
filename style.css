@@ -59,6 +59,8 @@ body {
 
 .qr-card-title, .qr-card-text {
     text-align: center;
+    font-size: .75rem;
+    color: var(--dark-blue);
 }
 
 
@@ -69,6 +71,7 @@ body {
 }
 
 .qr-card-text {
+    font-size: 14px;
     font-weight: 400;
     color: var(--gray-blue);
 }
